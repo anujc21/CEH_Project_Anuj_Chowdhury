@@ -20,8 +20,7 @@ It covers a complete ethical hacking lifecycle: scanning, enumeration, exploitat
 
 ## 📂 Project Contents
 
-- 📄 `CEH_Project_Anuj.pdf` — Full report with screenshots and command outputs  
-- 🖼️ `Screenshots/` — Real-time evidence of network attacks and defenses  
+- 📄 `Ethical Hacking Project (Anuj Chowdhury).pdf` — Full report with screenshots and command outputs  
 
 ---
 
