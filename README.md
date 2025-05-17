@@ -1,6 +1,6 @@
 # 🛡️ Ethical Hacking Project: Simulating Real-World Network Exploitation and Defense
 
-**Author:** Anuj Chowdhury 
+**Author:** Anuj Chowdhury  
 **Semester:** 6th  
 **Section:** CY6
 
